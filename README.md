@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-bahgat-wahib-948895365/)
 [![Gmail Badge](https://img.shields.io/badge/-ahmed.bahgat.wahib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahmed.bahgat.wahib@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ahmd.bhjat.918631?locale=ar_AR)
+[![X Badge](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Ahmed_B_Wahib)
 
 ---
 ### Glad to see you here! 
@@ -19,10 +21,13 @@ I'm an **Odoo Developer** passionate about building solutions that help business
 
 <hr>
 
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+</a>
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<a href="https://www.linkedin.com/in/ahmed-bahgat-wahib-948895365/" target="_blank">
+  <img align="right" height="250" width="375" alt="Ahmed Bahgat on LinkedIn" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+</a>
 
 ### 🚀 Skills
 
