@@ -1,4 +1,5 @@
-## 👋 Hey, I'm Ahmed Bahgat Wahib
+## 👋 Hey, I'm Ahmed Bahgat Wahib 
+           I'm Odoo developer 💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-bahgat-wahib-948895365/)
 [![Gmail Badge](https://img.shields.io/badge/-ahmed.bahgat.wahib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahmed.bahgat.wahib@gmail.com)
@@ -11,8 +12,7 @@
 
 I'm an **Odoo Developer** passionate about building solutions that help businesses grow using the Odoo ERP platform.
 
-- 💬 Ask me about Odoo development and customization  
-- 🛠️ Currently learning **CSS** and **APIs**  
+- 💬 Ask me about Odoo development and customization   
 - ⚡ Enjoy building real-world business applications
 
 ---
@@ -21,7 +21,7 @@ I'm an **Odoo Developer** passionate about building solutions that help business
 
 <hr>
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank">
+<a href="https://x.com/Ahmed_B_Wahib">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
 </a>
 
