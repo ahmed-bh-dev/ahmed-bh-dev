@@ -32,7 +32,7 @@ I'm an **Odoo Developer** passionate about building solutions that help business
 ### 🚀 Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Database](https://img.shields.io/badge/-Database-336791?style=flat-square&logo=Database&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-00618A?style=flat-square&logo=xml&logoColor=white)
 ![Qweb](https://img.shields.io/badge/-QWeb-875A7B?style=flat-square)
